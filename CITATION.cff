@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Raw Xsens IMU Dataset for Squat and Romanian Deadlift Analysis"
+authors:
+  - family-names: Reyes Leiva
+    given-names: Karla Miriam
+  - family-names: Nikelova
+    given-names: Pavla
+  - family-names: Cerny
+    given-names: Martin
+version: 1.0.0
+date-released: 2026-01-01
+doi: 10.3389/fmedt.2025.1725661
+license: CC-BY-4.0
+repository-code: https://github.com/USERNAME/REPOSITORY_NAME
