@@ -45,5 +45,4 @@ For each exercise:
 
 ---
 
-## 📂 Repository Structure
 
