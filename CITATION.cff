@@ -1,14 +1,31 @@
 cff-version: 1.2.0
+message: "If you use this dataset, please cite the article below."
+type: dataset
 title: "Raw Xsens IMU Dataset for Squat and Romanian Deadlift Analysis"
 authors:
   - family-names: Reyes Leiva
     given-names: Karla Miriam
+    orcid: "https://orcid.org/0000-0002-3269-0830"
   - family-names: Nikelova
     given-names: Pavla
   - family-names: Cerny
     given-names: Martin
 version: 1.0.0
 date-released: 2026-01-01
-doi: 10.3389/fmedt.2025.1725661
 license: CC-BY-4.0
-repository-code: https://github.com/USERNAME/REPOSITORY_NAME
+url: "https://github.com/drkarlareyes/Xsens-IMU-Raw-Data-Squat-RDL"
+repository-code: "https://github.com/drkarlareyes/ADA-exercise-assessment"
+preferred-citation:
+  type: article
+  title: "Anthropometry and diagnostic aware deep learning for exercise assessment"
+  authors:
+    - family-names: Reyes Leiva
+      given-names: Karla Miriam
+    - family-names: Nikelova
+      given-names: Pavla
+    - family-names: Cerny
+      given-names: Martin
+  journal: "Frontiers in Medical Technology"
+  volume: 7
+  year: 2026
+  doi: "10.3389/fmedt.2025.1725661"
